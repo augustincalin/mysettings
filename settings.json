@@ -1,0 +1,42 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "editor.renderWhitespace": "all",
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.lineHeight": 28,
+    "workbench.colorTheme": "Cobalt2",
+    "workbench.colorCustomizations": {
+        "[Cobalt2]": {
+            "editorWhitespace.foreground": "#406581"
+        },
+        "tab.activeBackground": "#593b75",
+        "tab.hoverBorder": "#e4dd7c",
+        "menu.foreground": "#d3d3d3",
+        "menu.selectionBackground": "#232d64",
+        "menu.selectionForeground": "#FFFFFF",
+        "menu.background": "#1b273a",
+        "menu.border": "#39475e",
+        "menu.selectionBorder": "#516079"
+    },
+    "editor.fontSize": 16,
+    "editor.fontWeight": "100",
+    "html.format.wrapAttributes": "force-aligned",
+    "prettier.disableLanguages": [
+        "vue",
+        "html"
+    ],
+    "prettier.singleQuote": true,
+    "breadcrumbs.enabled": true,
+    "editor.renderControlCharacters": false,
+    "editor.matchBrackets": false,
+    "subtleBrackets.style": {
+        "borderWidth": "3px",
+        "borderStyle": "none none solid none",
+        "borderColor": "white"
+    },
+    "editor.rulers": [
+        120
+    ],
+    "prettier.printWidth": 120,
+    "sync.gist": "7529bf45ac3a286e16f3e4fb02ea6cea"
+}
